@@ -1,0 +1,1 @@
+const fuck = ()=> 'i will fuck you'
